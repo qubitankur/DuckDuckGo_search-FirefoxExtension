@@ -1,0 +1,10 @@
+{
+"manifest_version": 2,
+"name":"DuckDuckGo Search",
+"description":"You can search selected text in duckduckgo",
+"version":"1.0",
+"permissions":["contextMenus"],
+"background": {
+    "scripts": ["backgrround.js"]
+}
+}
